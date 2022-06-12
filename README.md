@@ -1,6 +1,6 @@
-<h2>Hi🏻, I'm Said! <img src="" width="50"></h2>
-<img align='right' src="" width="230">
-<p><em>Software Developer <a href="http://www.cleartax.in">ClearTax</a><img src="" width="30"> 
+<h2>English?Hi, I'm Said !: Salut, Je suis Said ! <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/UTSoX7Q4bvRSDwqmLE/giphy.gif" width="230">
+<p><em>Software Developer </a><img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/saidvc_dev?label=Follow)
@@ -8,13 +8,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/saidvc-dev?label=Follow&style=social)
 
 
-### <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const said = {
     pronouns: "He" | "Him",
     code: ["Javascript", ,"Python", "Java", "php"],
-    askMeAbout: ["web dev", "app dev", "sports"],
+    askMeAbout: ["web dev", "app dev"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
@@ -36,36 +36,5 @@ const said = {
 
 <img src="" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
----
-<!--START_SECTION:waka-->
-**I'm an early 🐤** 
 
-```text
-🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   40.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   15.00% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   24.09% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   20.36%
-
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-⌚︎ Timezone: Asia/Calcutta
-
-💬 Languages: 
-JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
-Java                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-PHP                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-
-
-🔥 Editors: 
-VSCODE                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
-IntelliJ IDEA                 5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
-
-
-💻 Operating Systems: 
-Windows                  17 hrs 5 mins       █████████████████████████   100.0%
-
-```
+**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
