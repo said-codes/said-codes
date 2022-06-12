@@ -17,7 +17,7 @@
 ```javascript
 const said = {
     pronouns: "He" | "Him",
-    code: [Javascript, ,Python, Java, Php],
+    code: [Javascript, Java, Php, Python],
     askMeAbout: ["web dev", "app dev"],
     technologies: {
         mobileApp: ["Android App"],
