@@ -1,7 +1,7 @@
 <h2>
    Hi, I'm Said!, I'm from Colombia.
      
-   Salut, Je m'appelle Said!, Je viens de Colombie.
+   Salut, Je m'appelle Said!, Je viens de la Colombie.
     <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/UTSoX7Q4bvRSDwqmLE/giphy.gif" width="230">
 <p><em>Software Developer </a><img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="30"> 
