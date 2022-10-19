@@ -1,7 +1,7 @@
 <h2>
    Hi, I'm Said!, I'm from Colombia.
     <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" width="50"></h2>
-<p><em>Software Developer </a><img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="30"> 
+<p><em>Software Developer </a>
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/saidvc_dev?label=Follow)
