@@ -1,5 +1,5 @@
 <h2>
-   Hi, I'm Said!, I'm from Colombia.
+   Hi, I'm Said!.
     <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" width="50"></h2>
 <p><em>Software Developer </a>
 </em></p>
@@ -27,7 +27,7 @@ const said = {
             java: []
         },
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "php"]
+        misc: []
     },
     architecture: [],
     currentProject: "",
