@@ -1,10 +1,10 @@
 <h2>
    Hi I'm Said, fullStack developer under construction, I also love learning languages, reading and soccer.
  </h2>
-<p><em>Software Developer </a>
+<p><em>full developer </a>
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/saidvc_dev?label=Follow)
+![Twitter Follow](https://img.shields.io/twitter/follow/said_codes?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-said-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//said-antonio-valencia-castrillo-2784001a6/)](https://www.linkedin.com/in/said-antonio-valencia-castrillo-2784001a6/)
 ![GitHub followers](https://img.shields.io/github/followers/saidvc-dev?label=Follow&style=social)
 
