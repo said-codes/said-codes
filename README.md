@@ -5,7 +5,7 @@
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/said_codes?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-said-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//said-antonio-valencia-castrillo/)](https://www.linkedin.com/in/said-antonio-valencia-castrillo/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-said-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valencia-castrillo-said/)](https://www.linkedin.com/in/valencia-castrillo-said/)
 ![GitHub followers](https://img.shields.io/github/followers/said-codes?label=Follow&style=social)
 
 
