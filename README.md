@@ -14,7 +14,7 @@
 ```javascript
 const said = {
     pronouns: "He" | "Him",
-    code: [Python, Ruby, JavaScript,Java],
+    code: [Python, Ruby,JavaScript,Java],
     askMeAbout: ["web dev"],
     technologies: {
         mobileApp: [],
@@ -24,7 +24,8 @@ const said = {
         },
         backEnd: {
             js: ["Node"],
-            python: ["Django", "Ruby on Rails"],
+            python: ["Django",
+            ruby: ["Ruby on Rails"],
             java: ["Spring Boot"],
         },
         databases: ["mongo", "MySql", "sqlite"],
