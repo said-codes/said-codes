@@ -1,5 +1,5 @@
 <h2>
-   Hi I'm Said.
+   Hi, I'm Said.
  </h2>
 <p><em>full developer </a>
 </em></p>
@@ -14,7 +14,7 @@
 ```javascript
 const said = {
     pronouns: "He" | "Him",
-    code: [Python, Ruby,JavaScript,Java],
+    code: [Python, Ruby,JavaScript,PHP,Java],
     askMeAbout: ["web dev"],
     technologies: {
         mobileApp: [],
@@ -26,6 +26,7 @@ const said = {
             js: ["Node"],
             python: ["Django",
             ruby: ["Ruby on Rails"],
+            php: ["Laravel"],
             java: ["Spring Boot"],
         },
         databases: ["mongo", "MySql", "sqlite"],
