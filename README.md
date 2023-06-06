@@ -1,5 +1,5 @@
 <h2>
-   Hi I'm Said, fullStack developer under construction, I also love learning languages, reading and soccer.
+   Hi I'm Said.
  </h2>
 <p><em>full developer </a>
 </em></p>
