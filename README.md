@@ -1,7 +1,7 @@
 <h2>
    Hi, I'm Said.
  </h2>
-<p><em>full developer </a>
+<p><em>full stack developer </a>
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/said_codes?label=Follow)
