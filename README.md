@@ -9,7 +9,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/said-codes?label=Follow&style=social)
 
 
-### <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const said = {
