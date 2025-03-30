@@ -1,45 +1,47 @@
-<h2>
-   Hi, I'm Said.
- </h2>
-<p><em>full stack developer </a>
-</em></p>
+# 👋 ¡Hola, soy Said Antonio Valencia Castrillo!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/said_codes?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-said-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valencia-castrillo-said/)](https://www.linkedin.com/in/valencia-castrillo-said/)
-![GitHub followers](https://img.shields.io/github/followers/said-codes?label=Follow&style=social)
+## 🚀 Sobre mí
 
+Soy un **tecnólogo en Análisis y Desarrollo de Sistemas de Información** egresado del **SENA Colombo Alemán** en Barranquilla. Actualmente, estudio **Ingeniería de Sistemas** y cuento con experiencia en la creación de aplicaciones web. Mi enfoque se centra en el desarrollo **full-stack**, especializado en **Python/Django** y **Vue.js**, aplicando buenas prácticas de código limpio y optimización de rendimiento.
 
-### A little more about me...  
+Me apasiona la tecnología y su capacidad para generar un **impacto social y ambiental**. Siempre estoy en búsqueda de **nuevas herramientas y tecnologías** para resolver problemas de manera eficiente.
 
-```javascript
-const said = {
-    pronouns: "He" | "Him",
-    code: [Python, Ruby,JavaScript,PHP,Java],
-    askMeAbout: ["web dev"],
-    technologies: {
-        mobileApp: [],
-        frontEnd: {
-            js: ["React"],
-            css: [ "bootstrap"]
-        },
-        backEnd: {
-            js: ["Node"],
-            python: ["Django",
-            ruby: ["Ruby on Rails"],
-            php: ["Laravel"],
-            java: ["Spring Boot"],
-        },
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: []
-    },
-    architecture: [],
-    currentProject: "",
-    funFact: ""
-};
-```
+---
 
+## 💡 Habilidades Técnicas
 
- <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+### 🎨 **Frontend**
+- ⚛️ React.js
+- 🔥 Vue.js
+- 🌐 JavaScript
+- 🎨 CSS
 
-⭐️ From [@Said-codes](https://github.com/said-codes)
+### 🖥 **Backend**
+- ☕ Java
+- 🐍 Python
+- 🐘 PHP
+- 🚀 Django
+- 🏗 Laravel
+- 💎 Ruby on Rails
+- 🛢 SQL
+
+### ⚙ **DevOps & Herramientas**
+- 🛠 Git & GitHub
+- 🌍 Docker
+- 🔧 CI/CD
+- 🖥 Linux & Bash
+
+---
+
+## 🌱 Siempre aprendiendo
+Soy un apasionado del **aprendizaje continuo**, siempre explorando **nuevas tecnologías** y metodologías de desarrollo para mejorar la eficiencia y escalabilidad de los proyectos en los que participo.
+
+---
+
+## 📫 ¡Conéctate conmigo!
+💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil/)  
+🐦 [Twitter](https://twitter.com/tu-perfil)  
+📧 **Correo:** saidvalenciacastrillo@gmail.com 
+
+Si compartimos intereses o quieres colaborar en un proyecto, ¡no dudes en escribirme! 🚀
 
